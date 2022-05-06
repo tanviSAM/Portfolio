@@ -1,6 +1,6 @@
 :root {
   --color-main: #feb32c;
-  --color-accent: #3aafc9;
+  --color-accent: #3441bc;
   --color-tomato: #f36961;
   --color-orange: #f1b457;
   --color-text: #b1b3b7;
@@ -364,8 +364,10 @@ img {
     position: relative;
     z-index: 999;
     outline-color: transparent;
-    border: 2px solid #a163b4;
-    background-color: #a163b4;
+    border: 0px;
+    background-color: #3441bc;
+    margin:auto;
+    margin-left: -10px;
   }
 }
 @media only screen and (max-width: 600px) {
