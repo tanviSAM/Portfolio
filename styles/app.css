@@ -1010,3 +1010,17 @@ img {
   color: var(--color-accent);
   font-weight: var(--font-semi-bold);
 }
+.client__logos {
+  margin: auto;
+}
+.client__logo {
+  width: 90px;
+  display: inline-block;
+  margin: 18px 18px;
+}
+.dsa__logo {
+  width: 220px;
+  display: inline-block;
+  margin: 18px 18px;
+  margin-bottom: -90px;
+}
